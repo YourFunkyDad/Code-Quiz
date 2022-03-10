@@ -35,7 +35,11 @@ body.wrong {
     background-color: blanchedalmond;
     border-radius: 3px;
     padding: 10px;
-    box-shaddow: 0 0 5px 2px;
+    box-shadow: 0 0 3px 2px;
+}
+
+.title {
+    text-align: center;
 }
 
 .btn-grid {
