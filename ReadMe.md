@@ -12,4 +12,4 @@ GitHub Repository: https://github.com/YourFunkyDad/Code-Quiz
 
 ![Screenshot](./assets/images/CQ-Start.png)
 
-![Screenshot](./assets/images/CQ-Question.pngß)
+![Screenshot](./assets/images/CQ-Question.png)
